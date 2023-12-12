@@ -1,0 +1,13 @@
+/* src/pages/ProductListPage.css */
+.page-title {
+    font-size: 2rem;
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .page-content {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center; /* Centra horizontalmente */
+  }
